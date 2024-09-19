@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: rgba(13, 13, 13, 0.875);
+    color: rgb(255, 255, 255);
+    font-family: Agency FB;
+    letter-spacing: 0.2px;
+    
+
+}
+div {
+    border-radius: 10px;
+    margin: 0px 40px;
+
+}
+
+#genesis {
+    background-color: orange;
+    padding: 10px 0px
+}
+
+.white {
+    background-color: white;
+}
+input {
+    margin: 10px 0px;
+    border-radius: 20px;
+    text-align: left;
+    border: 1px solid rgba(43, 40, 40, 0.681);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
